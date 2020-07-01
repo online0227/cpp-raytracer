@@ -1,7 +1,5 @@
 # raytracer
 
-Written in C++
-
 HOW TO RUN:
 1. Turn on command line on windows 10 (type "cmd" in start menu) and go to the directory you extracted this zip file (type "cd pathname" on command line).
 2. Go to "raytracer executable" folder ("cd raytracer executable"), then type like "raytracer.exe testAmbient.txt" then press enter.
